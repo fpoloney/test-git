@@ -1,1 +1,2 @@
-This repo (test-git) is for InfoPros GitHub testing.
+This branch (int-bu)is a safe copy of int.
+
