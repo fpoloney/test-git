@@ -1,1 +1,1 @@
-This repo (test-git) is for InfoPros GitHub testing.
+This branch (work) contains updated files representing the Working branch of the working repo. 
