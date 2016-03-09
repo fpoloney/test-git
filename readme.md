@@ -1,1 +1,1 @@
-This repo (test-git) is for InfoPros GitHub testing.
+This branch (work-bu) is a safe copy of work.
